@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Samuel
 
-## Cognome: 
+## Cognome: Vasalie
 
-## Matricola:
+## Matricola: 381587
 
 ## Commenti/modifiche al progetto:
 
